@@ -1,0 +1,9 @@
+{
+  // Cloudflare Workers Static Assets configuration
+  // Place index.html, style.css, and script.js in the same directory (or move them into ./public and set "directory": "./public").
+  "name": "damn-bruh",
+  "compatibility_date": "2026-11-14",
+  "assets": {
+    "directory": "./"
+  }
+}
